@@ -1,3 +1,5 @@
+# Have been moved to [emacs-eaf/rss-reader](https://github.com/emacs-eaf/eaf-rss-reader)
+
 ### EAF RSS Reader
 
 <p align="center">
